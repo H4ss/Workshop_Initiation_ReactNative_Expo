@@ -63,4 +63,3 @@ Et puis, si vous avez réussi ce défi, implémentez un backend en nodeJS pour q
 Et enfin si vous êtes arrivés à cette ligne, je ne peux que vous conseiller de faire de plus gros projets.
 
 J'espère que ce workshop pour commencer le react-native vous aura plu.
-# Workshop_Initiation_ReactNative_Expo
