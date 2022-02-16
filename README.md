@@ -16,7 +16,7 @@ J'espère que cela vous plaira, sur ce, commencons.
 
 Pour commencer, faites :
 
-` git clone https://github.com/Sitrixx/Workshop-React-Native.git`
+` git clone https://github.com/H4ss/Workshop_Initiation_ReactNative_Expo.git`
 
 `cd Workshop-React-Native`
 
